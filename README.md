@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PatrickBaehlerAL
+- 👀 I’m interested in Design and Creative Coding
+- 🌱 I’m currently learning how to fuking React.js
+- 💞️ I’m looking to collaborate on Generative Design Projects
+- 📫 How to reach me ... pleas don't
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I got a dinosaur as a pet.
